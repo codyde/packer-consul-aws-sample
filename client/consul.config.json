@@ -1,4 +1,4 @@
 {
   "data_dir": "/var/consul",
-  "Hey!":"Replace with the content from your consul on AWS cluster; specifically your client_config.json"
+  "Hey!":"Replace with the content from your Consul cluster; specifically your client_config.json"
 }
